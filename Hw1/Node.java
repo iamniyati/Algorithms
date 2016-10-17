@@ -3,8 +3,6 @@ package sorting;
 /**
  * Node for the linked list classes.
  * 
- * @author Vishal Bedi
- * @author Daichi Mae
  * 
  */
 
