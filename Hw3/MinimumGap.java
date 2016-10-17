@@ -2,7 +2,7 @@
 /*
  * MinimumGap.java
  * 
- * @author: Rudresh Pandit(rmp7494)
+ * 
  * @author: Niyati Shah(nxs6032)
  * 
  * Program to find the minimum gap interval scheduling using dynamic programming.
