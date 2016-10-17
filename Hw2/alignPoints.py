@@ -1,7 +1,7 @@
 """
 Filename: alignPoints.py
 
-Authors: Rudresh Pandit(rmp7494), Niyati Shah(nxs6032)
+Authors: Niyati Shah(nxs6032)
 
 Program to find a line on a plane surface which will have maximum pair of points
 aligned when folded
