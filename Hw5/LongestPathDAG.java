@@ -10,7 +10,7 @@ import java.util.*;
  * @version   $Id$ 1.0 LongestPathDAG.java
  *
  * @author   Niyati Shah(nxs6032) Section3
- *              & Rudresh Pandit(rmp7494) Section1
+ *              
  *
  * Revisions:
  *	$Log$
