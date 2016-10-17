@@ -8,7 +8,7 @@ import java.util.Random;
  *
  * @version   $Id$ 1.0 OneDup.java
  *
- * @author   Niyati Shah & Rudresh Pandit
+ * @author   Niyati Shah 
  *
  * Revisions:
  *	$Log$
