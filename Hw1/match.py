@@ -1,7 +1,7 @@
 """
 FileName: match.py
 
-Authors: Rudresh Pandit(rmp7494), Niyati Shah(nxs6032)
+Authors:  Niyati Shah(nxs6032)
 
 Program to determine more than one stable matching for the given input
 """
