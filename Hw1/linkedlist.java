@@ -3,8 +3,6 @@ package sorting;
 /**
  * Another storage
  * 
- * @author Vishal Bedi
- * @author Daichi Mae
  * 
  */
 
