@@ -1,0 +1,3 @@
+Align Maximum points
+Find Majority
+Swapping
