@@ -10,7 +10,7 @@ import java.util.Scanner;
  * @version   $Id$ 1.0 ParenthesesGreedy.java
  *
  * @author   Niyati Shah(nxs6032) Section3
- *              & Rudresh Pandit(rmp7494) Section1
+ *            
  *
  * Revisions:
  *	$Log$
